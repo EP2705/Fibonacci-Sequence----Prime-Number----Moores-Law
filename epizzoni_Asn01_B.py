@@ -1,5 +1,3 @@
-# CS1026a 2023
-# Assignment 01 Project 01 - Part B
 # Eliandro Pizzonia
 # october 6 2023
 
