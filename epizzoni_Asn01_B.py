@@ -1,8 +1,6 @@
 # CS1026a 2023
 # Assignment 01 Project 01 - Part B
 # Eliandro Pizzonia
-# 251363956
-# epizzoni
 # october 6 2023
 
 print("Project One - Part B: Prime Choice")
